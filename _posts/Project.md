@@ -2,8 +2,8 @@
 layout: post
 title: America's Disappearing Farmland
 subtitle: Cause for Alarm or Sign of Progress?
-bigimg: https://i.imgur.com/CsZiVnB.jpg
-image: https://i.imgur.com/CsZiVnB.jpg
+bigimg: img/Farm.jpg
+image: img/Farm.jpg
 gh-repo: Nckflannery
 gh-badge: [star, follow]
 tags: [Data-Science, Data-Story, Agriculture, Population, Farm, Food, Growth]
