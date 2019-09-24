@@ -19,7 +19,7 @@ description: Projects and works
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
- navbar-links:
+navbar-links:
   About Me: "aboutme"
  #nav-search: "search" 
 
