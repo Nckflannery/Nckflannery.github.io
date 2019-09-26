@@ -16,9 +16,9 @@ Recently, while looking through datasets I stumbled upon an interesting and some
 ![US Population vs Land Used for Agriculture](/img/PopGraph2.png)  
 [Data gathered from the Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
-At first glance this may not seem like much, only around a 10% decrease over 50-60 years. Yet, when taking into account that the population has increased by nearly 85% in that same timeframe, you may ask (as I did) "How are we feeding everyone!?" I decided to do some investigating to try to shed some light on what is really going on here.
+At first glance this may not seem like much, only around a 10% decrease over 50-60 years. Yet, when taking into account that the population has increased by nearly 85% in that same timeframe, you may ask (as I did) "How are we feeding everyone!?" I decided to do some investigating to try to shed some light on this.
 
-## So what is really going on here?
+## So, what *is* really going on here?
 
 First, let's take a look at how much we import per year for some of the most widely consumed items in the US:
 
@@ -34,10 +34,15 @@ To check this theory, I looked into the average cost per acre of farmland:
 ![Price Graph](/img/Price.png)  
 [Data gathered from the Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
+What I found was that the cost of farmland in the US increased sharply as the years passed. There are a multitude of factors affecting the value of any land in the US, but I believe one large contributor is the consolidation of the agriculture business as a whole. For the purposes of this study I didn't want to go too deep into agricultrual economics (you could spend hours and hours researching and looking into the changes over the last 50 years and only skim the surface of the subject!). With smaller farms starting to disappear and huge agricultural conglomerates (Monsanto, ADM, Cargill alone hold a large percent of the market) taking over, the question of price becomes less interesting and the questions of how and what are we farming become more intriguing. To answer these questions, I decided to follow them up with a look into American dietary changes. 
+
 ## How eating habits have changed over the last 60 years
 
+I created this graph to demonstrate clearly where the American diet has diverged and in what ways it has stayed relatively constant:  
 ![Diet Graph](/img/Diet.png)
-[Data gathered from the United States Department of Agriculture Economic Research Service](https://www.ers.usda.gov)
+[Data gathered from the United States Department of Agriculture Economic Research Service](https://www.ers.usda.gov)  
+
+It is clear that while Americans are consuming more of every group besides dairy and eggs, we are consuming a great deal more of oils & fats, meats, sugars, and cereals & grains.
 
 ## How much yield
 
