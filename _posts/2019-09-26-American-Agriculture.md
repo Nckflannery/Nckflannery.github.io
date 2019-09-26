@@ -18,7 +18,7 @@ Recently, while looking through datasets I stumbled upon an interesting and some
 
 At first glance this may not seem like much, only around a 10% decrease over 50-60 years. Yet, when taking into account that the population has increased by nearly 85% in that same timeframe, you may ask (as I did) "How are we feeding everyone!?" I decided to do some investigating to try to shed some light on this.
 
-## So, what *is* really going on here?
+## So, what is *really* going on here?
 
 First, let's take a look at how much we import per year for some of the most widely consumed items in the US:
 
