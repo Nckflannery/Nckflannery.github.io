@@ -42,16 +42,23 @@ I created this graph to demonstrate clearly where the American diet has diverged
 ![Diet Graph](/img/Diet.png)
 [Data gathered from the United States Department of Agriculture Economic Research Service](https://www.ers.usda.gov)  
 
-It is clear that while Americans are consuming more of every group besides dairy and eggs, we are consuming a great deal more of oils & fats, meats, sugars, and cereals & grains.
+It is clear that while Americans are consuming more of every group besides dairy and eggs, we are consuming oils & fats, meats, sugars, and cereals & grains at vastly greater rates than in the past. With many of these items being mostly sourced in the US, I wondered again: "how are we supporting this vast difference"? I decided to next look at how much we are producing as a nation. While it is true the production numbers have improved drastically since the 1960's, I think it is more telling to look at how much yield we are getting from our farmland rather than a gross total.
 
-## How much yield
+## Are we getting more out of the land?  
+
+To answer this question I decided to look at the yields of some of our most popular and most consumed items, beef and poultry, and aggregates of vegetables and fruits respectively.  
 
 ![Yields Graph](/img/Yield.png)
 [Data gathered from the Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
-## Genetically engineered crops take over
+These numbers really made my jaw drop, with some more than doubling since the 1960's. We can see that there has clearly been great progress in the industry over the time frame, and that with these advancements the nature of the industry itself may be changing. Since the 1950's the FDA has approved multiple steroid hormone drugs for use with cattle and poultry that increase not only the animals' growth rates but also the rate at which they can convert what they eat into meat. During this same time frame there has been an explosion of advancements in gentically engineering crops as well. 
+
+## Genetically Engineered crops take over
+
+To explore this I looked at three of the most grown crops in the US and compared the amounts of crops planted that were GE to the number of non-GE crops.
 
 ![Genetic Engineering Graph](/img/GE.png)  
 [Data gathered from the United States Department of Agriculture Economic Research Service](https://www.ers.usda.gov)
 
+As you can see, in only the last 20 years these three crops have become almost exclusively GE. There are still many non-GE strains, however, the vast majority of planted crops in the US today are GE. GE crops consist of any crops that have had there DNA changed by using genes from other plants or animals. For example, non-GE tomatoes tend to have very soft skin making them prone to being crushed both in the fields and especially in transit. As such, many strains of tomatoes in the US were modified to increase the thickness of their skin, greatly increasing the yield as well as ease of trasnportation. 
 ## Conclusion
