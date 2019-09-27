@@ -64,4 +64,4 @@ As you can see, in only the last 20 years these three crops have become almost e
 
 ## Cause for Concern or Sign of Progress?
 
-
+In the end I believe the drop in total farm area is heavily influenced by these factors. With smaller farms being bought out by big conglomerates and a higher yield from every crop planted or animal raised, there is less area needed to produce even more. The items that give the greatest yields are the crops that we've put at the forefront and made up the difference in other items with imports. This, however, leads to many more questions. Is this a sustainable model? Are we supporting monopalization of an industry simply by consuming foods? Is it morally acceptable that at the current pace our grandchildren may never even taste non-GE food? I'd love to say that I have all the answers, but in truth, I don't believe anyone does yet. It seems clear, however, that we need to find a path to sustainability and although we have made progress towards it we have a long road ahead of us.
