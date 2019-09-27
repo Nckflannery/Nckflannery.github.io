@@ -51,7 +51,7 @@ To answer this question I decided to look at the yields of some of our most popu
 ![Yields Graph](/img/Yield.png)
 [Data gathered from the Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
-These numbers really made my jaw drop, with some more than doubling since the 1960's. We can see that there has clearly been great progress in the industry over the time frame, and that with these advancements the nature of the industry itself may be changing. Since the 1950's the FDA has approved multiple steroid hormone drugs for use with cattle and poultry that increase not only the animals' growth rates but also the rate at which they can convert what they eat into meat. During this same time frame there has been an explosion of advancements in gentically engineering crops as well. 
+These numbers really made my jaw drop, with some more than doubling since the 1960's. We can see that there has clearly been great progress in the industry over the time frame, and that with these advancements the nature of the industry itself may be changing. Since the 1950's the FDA has approved multiple steroid hormone drugs for use with cattle and poultry that increase not only the animals' growth rates but also the rate at which they can convert what they eat into meat. During this same time frame there has been an explosion of advancements in gentically engineered(GE) crops as well. 
 
 ## Genetically Engineered crops take over
 
@@ -60,5 +60,8 @@ To explore this I looked at three of the most grown crops in the US and compared
 ![Genetic Engineering Graph](/img/GE.png)  
 [Data gathered from the United States Department of Agriculture Economic Research Service](https://www.ers.usda.gov)
 
-As you can see, in only the last 20 years these three crops have become almost exclusively GE. There are still many non-GE strains, however, the vast majority of planted crops in the US today are GE. GE crops consist of any crops that have had there DNA changed by using genes from other plants or animals. For example, non-GE tomatoes tend to have very soft skin making them prone to being crushed both in the fields and especially in transit. As such, many strains of tomatoes in the US were modified to increase the thickness of their skin, greatly increasing the yield as well as ease of trasnportation. 
-## Conclusion
+As you can see, in only the last 20 years these three crops have become almost exclusively GE. GE crops consist of any crops that have had their DNA changed by using genes from other plants or animals. For example, non-GE tomatoes tend to have very soft skin making them prone to being crushed both in the fields and especially in transit. As such, many strains of tomatoes in the US were modified to increase the thickness of their skin, greatly increasing the yield as well as ease of trasnportation. There are still many non-GE strains, however, the vast majority of planted crops in the US today are GE. Whether you support or oppose the use of GE it has quickly become the standard and is, perhaps, the only sustainable model for the future.
+
+## Cause for Concern or Sign of Progress?
+
+
