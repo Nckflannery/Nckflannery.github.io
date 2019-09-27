@@ -34,7 +34,7 @@ To check this theory, I looked into the average cost per acre of farmland:
 ![Price Graph](/img/Price.png)  
 [Data gathered from the Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
-What I found was that the cost of farmland in the US increased sharply as the years passed. There are a multitude of factors affecting the value of any land in the US, but I believe one large contributor is the consolidation of the agriculture business as a whole. For the purposes of this study I didn't want to go too deep into agricultrual economics (you could spend hours and hours researching and looking into the changes over the last 50 years and only skim the surface of the subject!). With smaller farms starting to disappear and huge agricultural conglomerates (Monsanto, ADM, Cargill alone hold a large percent of the market) taking over, the question of price becomes less interesting and the questions of how and what are we farming become more intriguing. To answer these questions, I decided to follow them up with a look into American dietary changes. 
+What I found was that the cost of farmland in the US increased sharply as the years passed. There are a multitude of factors affecting the value of any land in the US, but I believe one large contributor is the consolidation of the agriculture business as a whole. For the purposes of this study I didn't want to go too deep into agricultural economics (you could spend hours and hours researching and looking into the changes over the last 50 years and only skim the surface of the subject!). With smaller farms starting to disappear and huge agricultural conglomerates (Monsanto, ADM, Cargill alone hold a large percent of the market) taking over, the question of price becomes less interesting and the questions of how and what are we farming become more intriguing. To answer these questions, I decided to follow them up with a look into American dietary changes. 
 
 ## How eating habits have changed over the last 60 years
 
@@ -51,7 +51,7 @@ To answer this question I decided to look at the yields of some of our most popu
 ![Yields Graph](/img/Yield.png)
 [Data gathered from the Food and Agriculture Organization of the United Nations](http://www.fao.org/faostat/en/#home)
 
-These numbers really made my jaw drop, with some more than doubling since the 1960's. We can see that there has clearly been great progress in the industry over the time frame, and that with these advancements the nature of the industry itself may be changing. Since the 1950's the FDA has approved multiple steroid hormone drugs for use with cattle and poultry that increase not only the animals' growth rates but also the rate at which they can convert what they eat into meat. During this same time frame there has been an explosion of advancements in gentically engineered (GE) crops as well. 
+These numbers really made my jaw drop, with some more than doubling since the 1960's. We can see that there has clearly been great progress in the industry over the time frame, and that with these advancements the nature of the industry itself may be changing. Since the 1950's the FDA has approved multiple steroid hormone drugs for use with cattle and poultry that increase not only the animals' growth rates but also the rate at which they can convert what they eat into meat. During this same time frame there has been an explosion of advancements in genetically engineered (GE) crops as well. 
 
 ## Genetically Engineered crops take over
 
