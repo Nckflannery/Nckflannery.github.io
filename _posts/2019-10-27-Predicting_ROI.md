@@ -6,7 +6,7 @@ bigimg: /img/investment.jpg
 image: /img/investment.jpg
 gh-repo: Nckflannery
 gh-badge: [star, follow]
-tags: [Data-Science, Data-Story, ROI, Loans]
+tags: [Data-Science, Data-Story, Predictions]
 comments: true
 ---
 
