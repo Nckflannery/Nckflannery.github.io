@@ -14,7 +14,6 @@ comments: true
 
 Have you ever thought of investing on Lending Club? They say there are no guarantees in life, and investments are no different.
 However, I created an app that attempts to predict the return on investment for any loan. The model for these predictions was created from
-data on over 2.2 million loans. It is designed to be as accurate as possible using only the features available to a potential invester at the
-time of investment.
+data on over 2.2 million loans. It is designed to be as accurate as possible using only the features available to a potential invester at the time of investment. More information on how it works can be found at the link below.
 
 # Find the app [HERE](http://lending-club-predictions.herokuapp.com/)
